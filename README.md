@@ -2,6 +2,7 @@
 
 Scripts for Genius transcriptions
 Both require exporting a spreadsheet (Spreadsheet 2) of all your transcriptions using Genius Artwork Extractor
+
 <img width="500" height="204" alt="image" src="https://github.com/user-attachments/assets/8e2b7324-258f-4225-ae4c-db55b02eece6" />
 
 ## genius_not_awarded
