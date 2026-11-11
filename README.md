@@ -16,7 +16,7 @@ This will also save in a .txt file in case you need to come back to it.
 
 ## genius_pageview_list
 
-Exports all your awarded transcriptions in a nice, formatted list similar to [this page](https://genius.com/Para-accomplishments-and-transcriptions-annotated). Minimum views is 5000, but can be adjusted.
+Exports all your awarded transcriptions in a nice, formatted list similar to [this page](https://genius.com/Para-transcriptions-annotated). Minimum views is 5000, but can be adjusted.
 
 <img width="1113" height="626" alt="image" src="https://github.com/user-attachments/assets/702e8d0f-ad9a-469f-b74a-0d8d786d5e60" />
 
